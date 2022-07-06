@@ -7,7 +7,7 @@
 // bot.launch() 
 
 const TeleBot = require('telebot');
-const bot = new TeleBot('5054740946:AAHPZr3ihBLI9NhFCgbxOYagjc7DlYruW9E');
+const bot = new TeleBot('TOKEN');
 
 const API = 'https://thecatapi.com/api/images/get?format=src&type=';
 
